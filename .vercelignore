@@ -1,0 +1,10 @@
+# Ignore files when deploying to Vercel
+.git
+.gitignore
+.next
+node_modules
+*.log
+.DS_Store
+.vscode
+.idea
+docs/
